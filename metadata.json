@@ -1,0 +1,6 @@
+{
+  "name": "GlowBook AI",
+  "description": "AI-Powered Beauty Parlor & Salon Booking Platform with personalized recommendations, package builder, and multi-role dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
